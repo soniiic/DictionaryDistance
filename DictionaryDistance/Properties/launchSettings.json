@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "4dict": {
+      "commandName": "Project",
+      "commandLineArgs": "5.dict output.txt train rainy"
+    }
+  }
+}
